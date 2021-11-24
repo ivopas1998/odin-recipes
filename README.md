@@ -1,0 +1,1 @@
+This is a basic HTML website with some recipes. The project idea is provided by TheOdinProject. My current knowledge in HTML and CSS should be enough to complete this project with ease.
